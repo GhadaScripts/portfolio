@@ -1,0 +1,32 @@
+[
+    {
+        "id": 1,
+        "title": "MOVIE CARD",
+        "summary": "Components are the heart of React's powerful, declarative programming model. React Router is a collection of navigational components that compose declaratively with your application. Whether you want to have bookmarkable URLs for your web app or a composable way to navigate in React Native, React Router works wherever React is rendering--so take your pick!",
+        "github": "https://github.com/R-Rouis/checkpoint-Router",
+        "technologies": "React, React router, javascript"
+    },
+    {
+        "id": 2,
+        "title": "TO-DO-LIST",
+        "summary": "A content managing system built with NoSQL. Employee tracker allows you to add departments, roles, and employees. Employees can by viewed by role or department and if more convenient complete eployee table.",
+        "github": "https://github.com/R-Rouis/checkpoint-react-redux",
+        "technologies": "React , redux , Javascript, "
+    },
+    {
+        "id": 3,
+        "title": "PROFILE show-hide",
+        "summary": "AThe state is an instance of React Component Class can be defined as an object of a set of observable properties that control the behavior of the component.",
+        "github": "https://github.com/R-Rouis/state",
+        "technologies": "javascript , react state"
+        
+    },
+    {
+        "id": 4,
+        "title": "CONTACT ME",
+        "summary": "React Native components, more commonly called components, for short, correspond to simple graphical elements found on native mobile applications: Text, Button, Image, ScrollView, View, WebView, etc. These components already exist and are made available by React Native ",
+        "github": "https://github.com/R-Rouis/checkcomp",
+        "technologies": "React component, react-dom, Javascript"
+    }
+    
+]
